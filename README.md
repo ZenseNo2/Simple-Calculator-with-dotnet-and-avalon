@@ -26,12 +26,16 @@ Sehingga, dotnet akan menjalankan code c# yang sudah dibuat dan akan menampilkan
 
 User dapat melakukan operasi sederhana seperti penjumlahan, pengurangan, perkalian, dan pembagian serta operasi yang dilakukan secara berurutan meski pada aplikasi kalkulator ini, operasi matematika menggunakan tanda kurung masih belum dapat dilakukan
 
+1. Pembagian
 [Screencast From 2026-09-23 13-12-04.webm](https://github.com/user-attachments/assets/5c22b8b2-0044-4577-8b08-877cd78fb51f)
 
+2. Perkalian
 [Screencast From 2026-09-23 13-12-23.webm](https://github.com/user-attachments/assets/fe03a85e-b695-4257-a080-2118c29660ce)
 
+3. Pengurangan
 [Screencast From 2026-09-23 13-12-39.webm](https://github.com/user-attachments/assets/23c66381-15ec-4977-8fa1-7cfe86625253)
 
+4. Penjumlahan
 [Screencast From 2026-09-23 13-13-03.webm](https://github.com/user-attachments/assets/5a56cc98-1c27-4329-9a17-b6b183e2461f)
 
 
