@@ -1,10 +1,8 @@
 # Simple-Calculator-with-dotnet-and-avalon
 
-| Nama| NRP|
-
-|-----------------:|---------------:|:---------------|
-
-|Fauzan Hafiz Amandani|5025241087| 
+| Nama | NRP |
+| --- | --- |
+| Fauzan Hafiz Amandani | 5025241087 |
 
 Saya melakukan eksplorasi dengan membuat suatu aplikasi desktop pada ubuntu yang dimana tidak memiliki support pada aplikasi visual studio .NET yang tersedia pada device windows. Pada ubuntu, yang tersedia adalah dotnet yang dapat kita pasangkan extension. Disini saya menggunakan extension avalon untuk membantu saya membuat susunan GUI yang diminta untuk dibuat pada tugas kali ini.
 
